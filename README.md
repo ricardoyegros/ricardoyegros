@@ -4,7 +4,7 @@
 </br>
 <p>🌏 Actualmente vivo en Formosa - Argentina </p>
 <p>💻 El mundo de la tecnología siempre fué de mi agrado pero durante la pandemia descubrí que el Desarrollo Web es lo que me apasiona ❤️ y a lo que quiero dedicar el resto de mi carrera por lo cual decidí enfocarme al 100% en este mundo </p>
-<p> ⭐️ Si gustas podés ver el último proyecto en el cual trabajé en el siguiente enlace: <a href="https://techstore-ruby.vercel.app/" target="_blank"> TechStore </a> </p>
+<p> ⭐️ Si gustas podés ver el último proyecto en el cual trabajé en el siguiente enlace: <a href="https://techstore-ruby.vercel.app/" target="blank"> TechStore </a> </p>
 <p> 😄 ¿Quieres saber un poco más de mi? </p>
 <p> 📩 Escríbeme : ricardo_yegros@hotmail.com  </p>
 <p> 📲 O visita mis redes sociales ↘️ </p>
