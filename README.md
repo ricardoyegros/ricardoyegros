@@ -3,19 +3,30 @@
 <div align="center"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  width="400"/></div>
 </br>
 <p>🌏 Actualmente vivo en Formosa - Argentina </p>
-<p>💻 El mundo de la tecnología siempre fué de mi agrado pero durante la pandemia descubrí que el Desarrollo Web es lo que me apasiona ❤️ y a lo que quiero dedicar el resto de mi carrera por lo cual decidí enfocarme al 100% en este mundo </p>
-<p> ⭐️ Si gustas podés ver el último proyecto en el cual trabajé en el siguiente enlace: <a href="https://techstore-ruby.vercel.app/" target="blank"> TechStore </a> </p>
-<p> 😄 ¿Quieres saber un poco más de mi? </p>
-<p> 📩 Escríbeme : ricardo_yegros@hotmail.com  </p>
+
+<p>🚀 Full Stack Web Developer con experiencia en tecnologías como HTML, CSS, Styled-Components, TailwindCSS, JavaScript, React, Redux, Next.js, Express, Node.js, PostgreSQL y Git. 🚀</p>
+
+<p>Si bien cuento con formación Full Stack, el Front-end es lo que me apasiona ❤️ por lo cual tomé la decisión de seguir especializandome en esta rama específicamente con React y Next.js.</p>
+
+<p>Acualmente me encuentro estudiando Vue.js para ampliar mi Stack en el Front y ampliar mis oportunidades. 💡 Me considero una persona muy pro-activa, curiosa, sociable, pero sobre todo con muchas ganas de aprender cada vez más de este mundo.</p>
+
+<p>Te invito a visitar mi página web para conocerme más en detalle y ver las cosas que hago. </p>
+
+<a href="https://www.ricardoyegros.com.ar" target="_blank">https://www.ricardoyegros.com.ar</a>
+
+ <p>😄 ¿Quieres saber un poco más de mi?</p> 
+ <p>📩 Escríbeme : ricardo_yegros@hotmail.com</p> 
+ <p>📞 Charlemos : (+54)-3718530530</p>
+
 <p> 📲 O visita mis redes sociales ↘️ </p>
 <hr></hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ricardoyegros&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="ricardoyegros" /> </p>
 
 <h3 align="center">Contacta conmigo:</h3>
 <p align="center">
-<a href="https://twitter.com/rickyegros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rickyegros" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ricardo-yegros-43623a188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-yegros-43623a188" height="30" width="40" /></a>
-<a href="https://instagram.com/ricardo_yegros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ricardo_yegros" height="30" width="40" /></a>
+<a href="https://twitter.com/rickyegros" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rickyegros" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ricardo-yegros-43623a188" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-yegros-43623a188" height="30" width="40" /></a>
+<a href="https://instagram.com/ricardo_yegros" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ricardo_yegros" height="30" width="40" /></a>
 </p>
 </br>
 <h3 align="center">Lenguajes y Herramientas:</h3>
